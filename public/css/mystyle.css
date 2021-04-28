@@ -1,0 +1,21 @@
+
+#galeriaImg{
+    width: 51%;
+    height: 450px;
+}
+#galeriaImg .conImagen{
+    width: 30%;
+    height: 100px;
+    margin-right: 8px;
+}
+
+.conImagen img{
+    width: 100%;
+    margin-left: 3px;
+
+}
+#btndiv{
+    position: absolute; 
+    top:80%; 
+    left:65%;
+}
